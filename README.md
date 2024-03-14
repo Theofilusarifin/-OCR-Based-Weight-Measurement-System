@@ -1,1 +1,1 @@
-# -OCR-Based-Weight-Measurement-System
+# OCR Based Weight Measurement System
